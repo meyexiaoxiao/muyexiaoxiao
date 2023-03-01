@@ -1,0 +1,5 @@
+Dependencies for Project 'BH-F103', Target 'Template-REG': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\startup_stm32f103xe.s)(0x5FFEEE4A)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Users\Administrator\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include--pd "__UVISION_VERSION SETA 536" --pd "STM32F10X_HD SETA 1"--list .\output\startup_stm32f103xe.lst --xref -o .\output\startup_stm32f103xe.o --depend .\output\startup_stm32f103xe.d)
+F (.\main.c)(0x63FEDB3F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\Administrator\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="536" -DSTM32F10X_HD-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (stm32f10x.h)(0x63FEDB95)
